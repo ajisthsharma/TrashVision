@@ -1,0 +1,6 @@
+{
+  "name": "TrashVision — AI Waste Segregation Assistant",
+  "description": "AI-powered waste segregation and disposal guidance platform aligned with India's Swachh Bharat Mission and Solid Waste Management Rules 2016.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
